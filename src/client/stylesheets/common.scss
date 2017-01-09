@@ -329,3 +329,38 @@ thead {
 a {
   cursor: pointer;
 }
+
+.metadata-page {
+  margin:10px;
+}
+
+.search-input {
+  margin-right:10px;
+  max-width:230px;
+  //padding-left:16px;
+  text-indent:20px;
+  padding: 10px 15px;
+  width: 300px;
+  border: solid 1px #d7d7d7;
+  border-radius: 4px;
+  font-size: 14px;
+  color: #888888;
+}
+
+.search-asset-header {
+  display:inline-block;
+  margin-right:100px;
+}
+
+.search-asset {
+  display:inline-block;
+}
+
+.asset-detail {
+  margin:50px;
+}
+
+.asset-header {
+  display:inline-block;
+  margin-right:20px;
+}
